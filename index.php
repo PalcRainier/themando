@@ -2,4 +2,4 @@
 
 echo "To The Moon!";
 
-if(true) echo "Flase";
+if(true) echo "True";
