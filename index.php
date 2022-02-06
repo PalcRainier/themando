@@ -1,5 +1,2 @@
 <?php
-
-echo "To The Moon!";
-
-if(true) echo "True";
+echo 'Más pruebas...';
